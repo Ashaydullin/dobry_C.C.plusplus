@@ -23,7 +23,7 @@
 
 <p align="center">
     <kbd>
-        <img src = "../../images/arch_comp.png" alt = "архитектура компьюьтера">
+        <img src = "../../images/1.1.1.png" alt = "архитектура компьюьтера">
     </kbd>
 </p>
 
@@ -65,7 +65,7 @@ B8 22 11 00 FF 01 CA 31 F6 53 8B 5C 24 04 8D 34 48 39 C3 72 EB C3
 
 <p align="center">
     <kbd>
-        <img src = "../../images/program_counter.png" alt = "program counter">
+        <img src = "../../images/1.1.2.png" alt = "program counter">
     </kbd>
 </p>
 
@@ -73,7 +73,7 @@ B8 22 11 00 FF 01 CA 31 F6 53 8B 5C 24 04 8D 34 48 39 C3 72 EB C3
 
 <p align="center">
     <kbd>
-        <img src = "../../images/cpu_ram.png" alt = "cpu ram">
+        <img src = "../../images/1.1.3.png" alt = "cpu ram">
     </kbd>
 </p>
 
@@ -103,7 +103,7 @@ B8 22 11 00 FF 01 CA 31 F6 53 8B 5C 24 04 8D 34 48 39 C3 72 EB C3
 
 <p align="center">
     <kbd>
-        <img src = "../../images/program_counter_move_1005.png" alt = "256">
+        <img src = "../../images/1.1.4.png" alt = "256">
     </kbd>
 </p>
 
@@ -127,7 +127,7 @@ addl %ecx, %edx
 
 <p align="center">
     <kbd>
-        <img src = "../../images/ascii.png" alt = "ascii">
+        <img src = "../../images/1.1.5.png" alt = "ascii">
     </kbd>
 </p>
 

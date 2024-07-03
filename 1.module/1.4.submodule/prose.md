@@ -56,7 +56,7 @@ printf("Hello, World\n");   // вывод строки на экран
 
 <p align="center">
     <kbd>
-        <img src = "../../images/main.png" alt = "функция main">
+        <img src = "../../images/1.4.1.png" alt = "функция main">
     </kbd>
 </p>
 

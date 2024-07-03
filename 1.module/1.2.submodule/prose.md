@@ -36,7 +36,7 @@ B8 22 11 00 FF 01 CA 31 F6 53 8B 5C 24 04 8D 34 48 39 C3 72 EB C3
 
 <p align="center">
     <kbd>
-        <img src = "../../images/compile.png" alt = "перевод в исполняемый код">
+        <img src = "../../images/1.2.1.png" alt = "перевод в исполняемый код">
     </kbd>
 </p>
 
