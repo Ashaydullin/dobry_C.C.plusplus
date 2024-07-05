@@ -1,9 +1,3 @@
-<style>
-.my-table {
-    background-color: red; /* Задайте нужный цвет */
-}
-</style>
-
 # 2.1 Переменные и их базовые типы. Модификаторы unsigned и signed
 
 Cпособы хранения данных на уровне программы представлены в двух видах:
@@ -115,7 +109,7 @@ Cледует иметь в виду, что язык С различает бо
 |short [int]                       | <p align="center"> 2 </p>           | <p align="center"> 2 </p>           | <p align="center"> 2 </p> |Целочисленный|[-32768;32767]|
 |int                               | <p align="center"> 2 </p>           | <p align="center"> 4 </p>           | <p align="center"> 4 </p> |Целочисленный|[-32768;32767] или [-2147483648;2147483648]|
 |long [int]                        | <p align="center"> 4 </p>           | <p align="center"> 4 </p>           | <p align="center"> 8 </p> |Целочисленный| ... |
-|<span style="color:orange">long long [int]</span>|<span style="color:orange"><p align="center"> 8 </p></span>|<span style="color:orange"><p align="center"> 8 </p></span>|<span style="color:orange"><p align="center"> 8 </p></span>|<span style="color:orange"><p align="center"> Целочисленный </p></span>|<span style="color:orange">...</span>|
+|<span style="color:orange">long long [int]</span>|<span style="color:orange"><p align="center"> 8 </p></span>|<span style="color:orange"><p align="center"> 8 </p></span>|<span style="color:orange"><p align="center"> 8 </p></span>|<span style="color:orange"> Целочисленный </span>|<span style="color:orange">...</span>|
 |float                             | <p align="center"> 4 </p>           | <p align="center"> 4 </p>           | <p align="center"> 4 </p> |Вещественный | ... |
 |double                            | <p align="center"> 8 </p>           | <p align="center"> 8 </p>           | <p align="center"> 8 </p> |Вещественный | ... |
 |long double                       | <p align="center"> 10 </p>          | <p align="center"> 10 </p>          | <p align="center"> 10 </p> |Вещественный | ... |
