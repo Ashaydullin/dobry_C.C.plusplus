@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(void)
+{
+    int a;
+    short b;
+    float c;
+    double d;
+
+    scanf("%d %hd %f %lf", &a, &b, &c, &d); // здесь продолжайте программу
+    printf("%d %d %.2f %.2f", a, b ,c ,d);
+
+    return 0;
+}
